@@ -3,6 +3,7 @@
 **A Python utility library made by Danial**
 
 DanialTools is a beginner-friendly Python utility library that provides useful tools for everyday programming tasks.
+## You can download my library with (pip install danialtools)
 
 ## ✨ Features
 
